@@ -1,0 +1,16 @@
+{
+  "name": "bruteforce-btc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bruteforce.js"
+  },
+  "keywords": [],
+  "author": "George Kiknadze",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore": "^4.1.1",
+    "node-fetch": "^2.1.2"
+  }
+}
